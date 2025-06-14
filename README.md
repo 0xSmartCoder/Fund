@@ -17,7 +17,7 @@ A decentralized application (DApp) built on Ethereum that allows users to fund a
 
  📦 Installation & Setup
 # 1️⃣ Clone the repository
-```sh
+sh
 git clone https://github.com/0xSmartCoder/Fund.git
 cd Fund
 
