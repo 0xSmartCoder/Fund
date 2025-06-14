@@ -15,8 +15,6 @@ A decentralized application (DApp) built on Ethereum that allows users to fund a
 - MetaMask – Wallet connection.
 - HTML, CSS, JavaScript – Frontend UI.
 
----
-
  📦 Installation & Setup
 # 1️⃣ Clone the repository
 ```sh
